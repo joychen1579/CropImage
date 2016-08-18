@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_6d2dec9be62589cc722245f42423fc69aee8518f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1184e300a5c201ef176942d06bdc2e13346719ea">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16b0a120092cb69515ba420880b2697e1ca41f69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="73ded55de121f0fc09a3b70f9030a2abe7f4899b">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b3827017b9ce1c0b70fa71835ba286b08e60d4ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_e253d4c416c1914532ed459707b531ae176a83ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e89e756ebf4ac298333c9b4cdd838f292fbc46e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_f6d91d5f452bf0eefa87b6930566ae9041e9f701/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_741a9e5cbbf59214c7ce1226aa806170317a65d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/apple/Documents/works/mydemo/CorpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_a8a48acb857be2930491fec117d48b429611ef8f/classes.dex" />
+    </item>
+
+</items>
